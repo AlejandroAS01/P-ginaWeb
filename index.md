@@ -4,7 +4,7 @@
 ## Foto adaptable
 <img srcset="cat-Gato_navideño.jpg 320w,
              cat-Gato_navideño_480x480.jpg.jpg 480w,
-             cat-6874264__340.jpg 800w"
+             cat-Gato_navideño_480x480.jpg 800w"
      sizes="(max-width: 320px) 280px,
             (max-width: 480px) 440px,
             800px"
