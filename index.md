@@ -15,6 +15,7 @@
      <source src="cancion.ogg" type='audio/ogg; codecs="vorbis"' >
 </audio>
 Control de audio
+
 ## Video
 <video id="medio" width="700" height="350" controls>
      <source src="video.mp4">
