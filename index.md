@@ -10,7 +10,10 @@
             800px"
      src="Gato_navideño.jpg" alt="gato navidad te mira el alma">
 ## Audio
-
+<audio id="medio" controls>
+     <source src="cancion.mp3" type='audio/mpeg; codecs="mp3"'>
+     <source src="cancion.ogg" type='audio/ogg; codecs="vorbis"' >
+</audio>
 
 ## Video
 <video id="medio" width="700" height="350" controls>
