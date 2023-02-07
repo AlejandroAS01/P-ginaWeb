@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="lt3Myz6y15VBc2hTUpgIJapgrjBf9j9lKUYqTn94HEg" />
+<head><meta name="google-site-verification" content="lt3Myz6y15VBc2hTUpgIJapgrjBf9j9lKUYqTn94HEg" /></head>
 
 #  Vuelve a  casa
 ##  Se busca mascota perdida
